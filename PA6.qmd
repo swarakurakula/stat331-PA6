@@ -1,5 +1,6 @@
 ---
 title: "Practice Activity 6"
+author: Eric, Visruth, Wesley, Swara
 format: html
 editor: visual
 embed-resources: true
