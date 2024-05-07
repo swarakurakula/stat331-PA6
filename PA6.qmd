@@ -1,6 +1,6 @@
 ---
 title: "Practice Activity 6"
-author: Eric, Visruth, Wesley, Swara
+author: "Eric Cheon, Visruth SK, Wesley Tam, Swara Kurakula"
 format: html
 editor: visual
 embed-resources: true
